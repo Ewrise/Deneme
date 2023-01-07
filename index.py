@@ -1,2 +1,2 @@
-Bugün hava çok soğuktu ve yağmur yağıyordu.
-Bu 2. cümle
+Bu 3. cümle
+Bu 4. cümle
