@@ -1,2 +1,6 @@
 veritabanı.py
 ^C
+
+belgeler/*
+
+!belgeler/dosya1.html
